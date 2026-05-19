@@ -1,9 +1,9 @@
-### Hey, I'm Eugene
+### Hey, I'm Yevheny
 
   I'm building [**Tessera**](https://tesseraai.io) — a programmable gateway that sits between your code and OpenAI / Anthropic / Mistral / Groq / Cohere, auto-routing requests to cheaper-equivalent models, caching the obvious repeats, compressing prompts losslessly, and
   arbitraging async traffic onto batch APIs.
 
-  You install the SDK, your existing code runs unchanged, and your LLM bill drops 20-40% on real workloads. We charge 20% of measured savings. If we save you nothing, you pay nothing.
+  You install the SDK, your existing code runs unchanged, and your LLM bill drops 30-40% on real workloads. We charge 20% of measured savings. If we save you nothing, you pay nothing.
 
   **Free tier:** 60M tokens/month, no card up front. Built for solo devs, side projects, hobbyists who want production-grade infra without a procurement conversation.
 
